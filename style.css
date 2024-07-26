@@ -1,0 +1,12 @@
+.nav-link.active{
+    color:dodgerblue !important;
+    border:none;
+}
+
+.nav-link{
+    color:grey ;
+    border: none;
+}
+.nav-tabs, .nav-link:hover, .nav-item{
+    border: none;
+}
