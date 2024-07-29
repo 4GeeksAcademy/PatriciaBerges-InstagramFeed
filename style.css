@@ -1,15 +1,16 @@
 .nav-link.active{
     color:dodgerblue !important;
-    border:none;
+    border-color: white !important;
 }
 
 .nav-link{
     color:grey ;
-    border: none;
+    border-color: white !important;
 }
 .nav-tabs, .nav-link:hover, .nav-item{
-    border: none;
+    border-color: white !important;
 }
+
 img{
     object-fit: contain !important;
     max-width: 100% !important;
